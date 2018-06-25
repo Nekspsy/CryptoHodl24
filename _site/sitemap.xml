@@ -7,6 +7,7 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>http://cryptohodl24.ru/blog/diy/</loc>
     <lastmod>2018-06-26T00:50:17+03:00</lastmod>
   </url>
@@ -41,6 +42,26 @@
   <url>
     <loc>http://cryptohodl24.ru/sitemap.xml</loc>
     <lastmod>2018-06-26T00:50:17+03:00</lastmod>
+=======
+    <loc>http://cryptohodl24.ru/404.html</loc>
+    <lastmod>2018-06-21T16:10:37+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://cryptohodl24.ru/about.html</loc>
+    <lastmod>2018-06-21T16:10:37+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://cryptohodl24.ru/</loc>
+    <lastmod>2018-06-21T16:10:37+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://cryptohodl24.ru/rss.xml</loc>
+    <lastmod>2018-06-21T16:10:37+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://cryptohodl24.ru/sitemap.xml</loc>
+    <lastmod>2018-06-21T16:10:37+03:00</lastmod>
+>>>>>>> 894ab2ca4e0fbe506ddabac66f0f65b00c2f7c4c
   </url>
   
 </urlset>
