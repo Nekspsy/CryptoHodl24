@@ -1,0 +1,25 @@
+	<!-- First-section start -->
+	<section class="first-section clearfix">
+		<div class="container-fluid">
+
+			<div class="ad top-ad">
+{% include /ad-type-1.html%}			
+			</div>
+
+			<div class="row no-gutters">
+
+{% for post in site.categories.lifehacks limit: 2 offset: 0 %}
+{% include /home-first-section-item-1 %}
+{% endfor %}
+				
+
+{% for post in site.categories.lifehacks limit: 3 offset: 2 %}
+{% include /hhome-first-section-item-2 %}
+{% endfor %}
+
+
+			</div>
+
+		</div>
+	</section>
+	<!-- First-section end -->
